@@ -2,6 +2,8 @@
 
 This plugin allows Wordpress VIP Go sites to use a short code for embedding Simplecast audio players into their site's content.
 
+🚨 This plugin is for **Wordpress VIP Go** only, you can get the standard Wordpress plugin here: https://github.com/simplecastapps/wordpress-plugin 🚨
+
 ## Installation
 To install this plugin, please follow one of the installation methods from the Wordpress VIP Go docs: https://wpvip.com/documentation/vip-go/managing-plugins/
 
