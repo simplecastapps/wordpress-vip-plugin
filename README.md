@@ -8,7 +8,7 @@ To install this plugin, please follow one of the installation methods from the W
 ## Usage
 Once the plugin has been properly installed, you will be able to use the following short code syntax to display a Simplecast audio player.
 
-```[simplecast-embed src="[simplecast/episode/embed/link]"]```
+```[simplecast-embed src="https://cat-jokes-pawdcast.simplecast.com/episodes/episode-1-6OqoSJG1"]```
 
 The `src` value for your short code is the Embed Short Link found on the Episode Overview page of your Simplecast Dashboard.
 
